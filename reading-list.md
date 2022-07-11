@@ -8,6 +8,10 @@ Levin-Gu [braiding and Z2 SPT in 2+1d](https://arxiv.org/abs/1202.3120)
 
 Pollmann-Turner [string order parameters for 1+1d SPTs](https://arxiv.org/abs/1204.0704)
 
+Kitaev [anyons and beyond](https://arxiv.org/abs/cond-mat/0506438)
+
+Bernevig-Neupert [topological superconductors and category theory/16-fold way](https://arxiv.org/abs/1506.05805)
+
 Chen-Gu-Liu-Wen [group cohomology SPTs](https://arxiv.org/abs/1301.0861)
 
 Else-Nayak [anomaly spectral sequence](https://arxiv.org/abs/1409.5436)
@@ -31,6 +35,8 @@ Tachikawa [gauging finite subgroups](https://arxiv.org/abs/1712.09542)
 Watanabe [Bloch's theorem](https://arxiv.org/abs/1904.02700)
 
 Thorngren-Wang [anomalous symmetries always break at the boundary](https://arxiv.org/abs/2012.15861)
+
+Tachikawa [lectures](https://member.ipmu.jp/yuji.tachikawa/lectures/)
 
 *crystalline symmetries:*
 
