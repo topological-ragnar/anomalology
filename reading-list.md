@@ -24,9 +24,13 @@ Kapustin [bosonic cobordism classification](https://arxiv.org/abs/1403.1467)
 
 Kapustin-Thorngren-Tuzillo-Wang [fermion cobordism classification](https://arxiv.org/abs/1406.7329)
 
-Witten [fermion path integrals](https://arxiv.org/abs/1508.04715)
+Freed-Hopkins [invertible TQFT proof of cobordism classification](https://arxiv.org/abs/1604.06527)
 
-Witten [parity anomaly](https://arxiv.org/abs/1605.02391)
+Gaiotto--Johnson-Freyd [physics take on the spectrum of invertible theories, some spectral sequences](https://arxiv.org/abs/1712.07950)
+
+Witten [fermion path integrals, some down to Earth explanation for cobordism classification in free fermions](https://arxiv.org/abs/1508.04715)
+
+Witten [parity anomaly and unorientable spacetimes](https://arxiv.org/abs/1605.02391)
 
 Witten [emergent symmetries](https://arxiv.org/abs/1710.01791)
 
@@ -79,6 +83,8 @@ Gaiotto-Kulp [topological defects / duality web from orbifolding](https://arxiv.
 Komargodski-Ohmori-Roumedakis-Seifnashri [topological defects in 1+1d adjoint QCD](https://arxiv.org/abs/2008.07567)
 
 Burbano-Kulp-Neuser [E8 and Tambara-Yamagami symmetries in holomorphic CFTs](https://arxiv.org/abs/2112.14323)
+
+Gaiotto--Johnson-Freyd [condensation in higher categories](https://arxiv.org/abs/1905.09566)
 
 Cordova-Ohmori [exponential hierarchies and axial rotations](https://arxiv.org/abs/2205.06243)
 
