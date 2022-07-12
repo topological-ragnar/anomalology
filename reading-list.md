@@ -74,6 +74,8 @@ Chang-Lin-Shao-Wang-Yin [topological defect lines and RG flows in 1+1d](https://
 
 Thorngren-Wang [fusion category symmetry I](https://arxiv.org/abs/1912.02817) [and II, with many examples, including Noether's theorem](https://arxiv.org/abs/2106.12577)
 
+Gaiotto-Kulp [topological defects / duality web from orbifolding](https://arxiv.org/abs/2008.05960)
+
 Komargodski-Ohmori-Roumedakis-Seifnashri [topological defects in 1+1d adjoint QCD](https://arxiv.org/abs/2008.07567)
 
 Burbano-Kulp-Neuser [E8 and Tambara-Yamagami symmetries in holomorphic CFTs](https://arxiv.org/abs/2112.14323)
