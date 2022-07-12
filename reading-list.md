@@ -76,6 +76,8 @@ Thorngren-Wang [fusion category symmetry I](https://arxiv.org/abs/1912.02817) [a
 
 Komargodski-Ohmori-Roumedakis-Seifnashri [topological defects in 1+1d adjoint QCD](https://arxiv.org/abs/2008.07567)
 
+Burbano-Kulp-Neuser [E8 and Tambara-Yamagami symmetries in holomorphic CFTs](https://arxiv.org/abs/2112.14323)
+
 Cordova-Ohmori [exponential hierarchies and axial rotations](https://arxiv.org/abs/2205.06243)
 
 **more interesting examples/applications**
