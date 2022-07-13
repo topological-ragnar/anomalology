@@ -118,3 +118,5 @@ Shapere-Wilczek [swimming at low Reynolds number](https://www.physics.utoronto.c
 Montgomery [gauge theory of the falling cat](https://montgomery.math.ucsc.edu/papers/cat.PDF)
 
 Delplace-Marston-Venaille [the Earth is a Chern insulator](https://arxiv.org/abs/1702.07583)
+
+Kane-Lubensky [mechanical SPTs](https://arxiv.org/abs/1308.0554)
